@@ -1,0 +1,3 @@
+Hey!
+to run code:
+g++/gcc main.py practic_algs.py teor_algs.py
